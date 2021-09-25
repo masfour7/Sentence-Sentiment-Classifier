@@ -1,6 +1,9 @@
 # cs4563-project
-Sentence Sentiment Classifier Project for CS-UY 4563 (S'20)
+- Programming language: Python, Web IDE: Google Colab
 
-First notebook shows results from a pre-trained word2vec model
+- Used more than 500k labeled sentences from Amazon to train a model to classify how happy a customer is.
 
-Second notebook shows results of our own word2vec trained model
+- The data has been preprocessed and then trained using word2vec for word embedding and mapping.
+
+- Trained the model using multiple machine learning techniques such as KNN, Naïve Bayes, SVM, and logistic
+regression and measured accuracy, recall, and precision for each one.
