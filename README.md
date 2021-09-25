@@ -1,4 +1,6 @@
 # cs4563-project
+- The purpose of this project is to better undesrtand the feeling of a customer using machine learning.
+
 - Programming language: Python, Web IDE: Google Colab
 
 - Used more than 500k labeled sentences from Amazon to train a model to classify how happy a customer is.
